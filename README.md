@@ -1,8 +1,5 @@
-# React + Vite
+Task Management App
+React app that lets you add and delete tasks. Deleted tasks are saved in case the User did not fully intend to delete the task. This app is mobile-friendly and uses a sliding navbar for phones or iPads. Users can enter in more details for each task. When the User clicks on the saved task, appropriate task expands out to display the details.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1) ADD TASKS :
+   
